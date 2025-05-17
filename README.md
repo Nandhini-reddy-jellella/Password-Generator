@@ -1,4 +1,4 @@
-# Password-Generator# 🔐 Password Generator
+#🔐 Password Generator
 
 A simple Java-based command-line application to generate strong, random passwords.
 
